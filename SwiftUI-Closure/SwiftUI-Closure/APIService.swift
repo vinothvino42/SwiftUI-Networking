@@ -6,7 +6,6 @@
 //
 
 import Foundation
-import Combine
 
 protocol DataFetcher {
     var session: URLSession { get }

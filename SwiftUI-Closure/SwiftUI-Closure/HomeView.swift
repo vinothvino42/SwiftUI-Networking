@@ -1,6 +1,6 @@
 //
-//  HomeView.swift
-//  SwiftUI-Combine
+//  ContentView.swift
+//  SwiftUI-Closure
 //
 //  Created by Vinoth Vino on 12/08/23.
 //

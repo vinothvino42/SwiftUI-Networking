@@ -11,7 +11,8 @@ import SwiftUI
 struct SwiftUI_ClosureApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            HomeView()
+                .environmentObject(HomeViewModel())
         }
     }
 }
